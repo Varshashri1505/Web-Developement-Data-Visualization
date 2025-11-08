@@ -1,6 +1,6 @@
-##Task 2 – IoT Data Visualization and Web Development
+Task 2 – IoT Data Visualization and Web Development
 
-## STEP-1 Data Preparation & Visualization
+### STEP-1 Data Preparation & Visualization
 
 ###  Objective
 Cleaned, standardized, and explored the IoT sensor dataset before integrating it with the backend API and React dashboard.
