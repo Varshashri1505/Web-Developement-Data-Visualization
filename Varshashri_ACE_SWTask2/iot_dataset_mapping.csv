@@ -1,0 +1,13 @@
+value_col,original_column
+value 1,"{'AQ': 'pm25', 'WF': 'flowrate', 'SL': 'active_power'}"
+value 2,"{'AQ': 'calibrated_pm25', 'WF': 'total_flow', 'SL': 'voltage_rs'}"
+value 3,"{'AQ': 'pm10', 'WF': 'pressure', 'SL': 'frequency'}"
+value 4,"{'AQ': 'calibrated_pm10', 'WF': 'pressure_voltage', 'SL': 'power_factor'}"
+value 5,"{'AQ': 'temperature', 'WF': 'flow_volume', 'SL': 'pf_avg'}"
+value 6,"{'AQ': 'calibrated_temperature', 'WF': 'flow_time', 'SL': 'pv1_power'}"
+value 7,"{'AQ': 'relative_humidity', 'WF': '', 'SL': 'pv2_power'}"
+value 8,"{'AQ': 'calibrated_relative_humidity', 'WF': '', 'SL': 'pv3_power'}"
+value 9,"{'AQ': 'noise', 'WF': '', 'SL': 'r_active_power'}"
+value 10,"{'AQ': 'calibrated_noise', 'WF': '', 'SL': 'y_active_power'}"
+value 11,"{'AQ': 'aqi', 'WF': '', 'SL': 'b_active_power'}"
+value 12,"{'AQ': 'aql', 'WF': '', 'SL': ''}"
